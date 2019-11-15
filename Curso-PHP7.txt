@@ -1,3 +1,62 @@
 Curso de PHP7 Udemy
 
 Criação do Repositório.
+
+1. Boas Vindas
+
+Apenas explicando como vai funcionar o curso.
+
+
+2. Como Funciona a Plataforma da Udemy
+
+Explicou como funciona a plataforma da udemy e onde vai para poder fazer qualquer coisa.
+
+
+3. Dúvidas, Certificado de Conclusão, Certificado Hcode, Novos Recursos
+
+Aqui ele explica que assim que você terminar o curso é possivel conseguir também um curso sa HCODE, e tem que você pode subri tudo que você fizer no github e ai depois de validado eles enviam o certificado HCODE.
+
+
+4. História do PHP e Evolução da Linguagem
+
+Explicou como o PHP surgiu e quem são os criadores e quem atualmente está dando suporte a Linguagem.
+
+
+5. Preparando o Ambiente - Instalando PHP 7 e Apache
+
+Mostrou onde baixar e como configurar
+
+
+6. Editor vs IDE e Hello World!
+
+Aqui ele manda ou recomenda que se instale o sublime mais to no vscode mesmo.
+
+
+7. A arquitetura Cliente/Servidor
+
+Explicou como que é a arquitetura cliente/servidor, e a forma que cada um deles é utilizada e o que cada um tem como sua responsabilidade.
+
+Questionário 1: Introdução ao PHP
+questionario meio badarosca.
+
+
+Seção 2: Entendendo Controle de versão
+
+8. O Que é Git
+Explicou o que é o git e para que ele serve.
+
+
+9. Instalando o Git e Clonando um Repositório
+mostrou como clonar um Repositório e como é feita essa integração de git e github.
+
+
+10. Criando o Seu Repositório
+mostrou como criar o seu proprio Repositório no github e como subir seus arquivos para la.
+
+
+11. GitHub vs BitBucket
+mostrou as principais diferenças entre os dois e que o funcionamente e o proposito dos dois são bem semelhantes, o que muda são algumas ferramentas ou facilidades que cada um oferece.
+
+
+12. Editando Arquivos Remotos e Resolvendo Conflitos
+Explicação basica do git e seu funcionamento.
