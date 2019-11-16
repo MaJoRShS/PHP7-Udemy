@@ -60,3 +60,36 @@ mostrou as principais diferenças entre os dois e que o funcionamente e o propos
 
 12. Editando Arquivos Remotos e Resolvendo Conflitos
 Explicação basica do git e seu funcionamento.
+
+
+Seção 3: Conhecendo a Linguagem PHP
+
+
+13. Utilizando Variáveis com PHP
+Explicou que variaveis são lugares da memoria eu vou armazenar valores, e que no php para declarar uma variavel é só colocar o "$" na frente, e que como o PHP não é fortemente tipada eu apenas declaro o valor e o nome da variavel e não preciso declarar o tipo de dado da minha variavel.
+
+
+14. Conhecendo os Tipo de Dados em PHP
+Tipos de dados são os primitivos iguais a todas as linguagens de programação, e ainda meio que deu uma inicializada no desing patters, que diz que o padrão é o camel case.
+
+
+
+Questionário 2: Variáveis e Tipos de Dados no PHP
+
+
+15. Variáveis Pré-definidas
+Mostrou as variaveis super globais, aquelas que são nativas do PHP , falou apenas da _GET e da _SERVER, mais já deu uma introdução legal.
+
+
+16. Escopo de Variável
+Mostrou que existe escopo local e escopo global, mostrou que tem como eu dizer que uma variavel que está fora do escopo de uma função pode ser chamada de fora usando a palavra reservada (global) e declara ela de novo sem passar valor novamente.
+
+
+17. Conhecendo os Operadores do PHP
+mostrou todos os grupos de Operadores do PHP e os novos do PHP 7 o spaceship e o Null Coalesce
+
+
+18. Strings em PHP
+
+
+19. Incluindo Arquivos Com Include e Require
